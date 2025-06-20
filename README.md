@@ -29,6 +29,3 @@ This repository contains three completed tasks from the Data Science & Analytics
 - `bank_marketing_simulated_large.csv` – Simulated dataset used in Task 3
 - `README.md` – This project overview file
 
-## 📌 Notes
-- Each notebook contains: Introduction, EDA, model training, evaluation, and conclusion.
-- All code is clean, well-commented, and beginner-friendly.
